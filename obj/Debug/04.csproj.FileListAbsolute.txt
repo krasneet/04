@@ -1,0 +1,11 @@
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\bin\Debug\04.exe.config
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\bin\Debug\04.exe
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\bin\Debug\04.pdb
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\obj\Debug\04.csproj.AssemblyReference.cache
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\obj\Debug\04.csproj.SuggestedBindingRedirects.cache
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\obj\Debug\_04.Form1.resources
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\obj\Debug\_04.Properties.Resources.resources
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\obj\Debug\04.csproj.GenerateResource.cache
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\obj\Debug\04.exe
+Z:\24-25 уч год\31ИС\mamyra2\РКИС\04\obj\Debug\04.pdb
